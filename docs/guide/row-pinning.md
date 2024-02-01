@@ -6,7 +6,7 @@ title: Row Pinning
 
 Want to skip to the implementation? Check out these examples:
 
-- [row-pinning](../examples/react/row-pinning)
+- [row-pinning](https://github.com/TanStack/table/tree/main/examples/react/row-pinning)
 
 ## API
 
